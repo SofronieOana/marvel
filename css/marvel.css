@@ -1,0 +1,78 @@
+body{
+	font-family: Arial;
+	
+
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-between;
+  }
+
+.col-md-4{
+	margin-bottom: 20px;
+}
+
+
+section#about{
+	margin-top:50px;
+}
+
+section#movie{
+	margin-top:50px;
+}
+
+section#contact{
+	margin-top:50px;
+}
+
+
+img.demo {
+	width:100%;
+	padding:3px;
+	border:1px solid #ccc;
+}
+
+footer {
+	position: fixed;
+	left: 0;
+	margin-top:100px;
+	bottom: 0;
+	width: 100%;
+	background-color: darkgray;
+}
+
+footer li {
+	float:left;
+	padding:0 10px 0 10px;
+	list-style: none;
+}
+
+footer a li p{
+	color:#fff;
+}
+
+.content{
+margin-top:200px;
+text-align:center;
+}
+
+.jumbotron {
+	background: url(/marvel-cinema/resources/views/image/pattern1.jpg) no-repeat top center;
+	height: 200px;
+	overflow:none;
+	margin-bottom:200px;
+}
+
+.col{
+	margin-top: 50px;
+}
+
+.thumbnail{
+	margin-bottom:40px;
+}
+
+.ad{
+	margin-bottom:40px;
+}
+
